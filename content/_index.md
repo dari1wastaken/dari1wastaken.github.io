@@ -65,7 +65,7 @@ sections:
         - title: Software Engineer Intern - Workload Identity in a Cloud Environment
           company: Amadeus
           company_url: 'https://amadeus.com'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Villeneuve-Loubet, France
           date_start: '2023-03-01'
           date_end: '2023-09-01'
@@ -76,7 +76,7 @@ sections:
         - title: Summer Intern - 5G Core Network Software Developer
           company: OpenAirInterface Software Alliance
           company_url: 'https://openairinterface.org/'
-          company_logo: org-x
+          # company_logo: org-x
           location: Sophia Antipolis, France
           date_start: '2022-06-01'
           date_end: '2020-09-01'
