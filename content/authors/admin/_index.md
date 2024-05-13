@@ -29,7 +29,9 @@ bio: Biography
 
 # Interests to show in About widget
 interests:
-  - List 3
+  - Network Security
+  - Honeypots
+  - Cyber Threat Intelligence
 
 # Education to show in About widget
 education:

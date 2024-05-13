@@ -245,7 +245,7 @@ sections:
         postcode: '2628 XE'
         country: Netherlands
         country_code: NL
-      directions: Room ???
+      directions: CS Offices, Room 02.160
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
