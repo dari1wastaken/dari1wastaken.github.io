@@ -1,6 +1,6 @@
 ---
 title: "Revealing Informed Scanners by Colocating Reactive and Passive Telescopes"
-slug: "raid-2025-informed-scanners"
+# slug: "raid-2025-informed-scanners"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

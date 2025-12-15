@@ -1,6 +1,6 @@
 ---
 title: "Have you SYN What I See? Analyzing TCP SYN Payloads in the Wild"
-slug: "imc-2025-syn-payloads"
+# slug: "imc-2025-syn-payloads"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
