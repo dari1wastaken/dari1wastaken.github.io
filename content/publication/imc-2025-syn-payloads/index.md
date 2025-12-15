@@ -5,7 +5,7 @@ title: 'Have you SYN What I See? Analyzing TCP SYN Payloads in the Wild'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Dario Ferrero
+  - admin
   - Enrico Bassetti
   - Harm Griffioen
   - Georgios Smaragdakis
