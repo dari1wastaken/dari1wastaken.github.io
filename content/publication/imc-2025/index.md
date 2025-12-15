@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACM Internet Measurement Conference 2025*
-publication_short: In *IMC 2025*
+# publication_short: In *IMC 2025*
 
 abstract: TCP SYN packets are typically meant to initiate a three-way handshake for new connections and do not carry a payload. The only exception, according to the standards, is TCP Fast Open, where data is transmitted as TCP SYN payload. In this paper, we perform an empirical analysis of other cases where TCP SYN carries a payload. We utilize a large passive and a reactive network telescope to collect pure TCP SYN packets over two years. Our analysis shows that around 75% of these payloads are HTTP GET requests for potentially censored content performed by researchers and activists originated by a relatively small number of IPs. We also observe scouting and intrusion attempt activity related to port 0, operating systems, middleware, and edge router vulnerability exploitation. We make our data and methodology publicly available as we want to raise awareness of this type of TCP SYN that typically goes unnoticed.
 
