@@ -1,5 +1,5 @@
 ---
-title: 'Have you SYN What I See? Analyzing TCP SYN Payloads in the Wild'
+title: 'Revealing Informed Scanners by Colocating Reactive and Passive Telescopes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
