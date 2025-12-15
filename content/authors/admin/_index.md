@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Candidate in Cyber Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: TU Delft
+  - name: Delft University of Technology (TU Delft)
     url: https://tudelft.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biography
+bio: I'm a second-year PhD Candidate in Internet Measurements and Security
 
 # Interests to show in About widget
 interests:
@@ -92,9 +92,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=V-JWirEAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/dari1wastaken
@@ -104,13 +104,14 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Dario_FERRERO_CV.pdf
+  # TODO: update CV
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/Dario_FERRERO_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm a PhD Candidate in the Cybersecurity group at Delft University of Technology under the supervision of Prof. Georgios Smaragdakis and Prof. Harm Griffioen. My research focuses on Network Security via Internet Measurements, making use of infrastructure such as Network Telescopes and Honeypots. Before that, I obtained my MSc. in Digital Security from the EURECOM Institute in Sophia Antipolis, France, and my BSc. in Computer Science from the University of Turin, Italy.
+I'm a second-year PhD Candidate in the Cybersecurity group at Delft University of Technology under the supervision of Prof. Georgios Smaragdakis and Prof. Harm Griffioen. My research focuses on Network Security via Internet Measurements, making use of infrastructure such as Network Telescopes and Honeypots. Before that, I obtained my MSc. in Digital Security from the EURECOM Institute in Sophia Antipolis, France, and my BSc. in Computer Science from the University of Turin, Italy.
 {style="text-align: justify;"}
