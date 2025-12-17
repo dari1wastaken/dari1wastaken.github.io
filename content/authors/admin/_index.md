@@ -95,19 +95,15 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=V-JWirEAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/dari1wastaken
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dario-ferrero-b78191230
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # TODO: update CV
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/Dario_FERRERO_CV.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Dario_FERRERO_Resume_Dec_2025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
