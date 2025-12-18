@@ -27,7 +27,7 @@ sections:
       columns: '2'
       view: citation
   - block: experience
-    id: experience
+    # id: experience
     content:
       title: Experience
       # Date format for experience
