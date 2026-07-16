@@ -25,7 +25,7 @@ organizations:
     url: https://tudelft.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a second-year PhD Candidate in Internet Measurements and Security
+bio: Third-year PhD Candidate in Internet Measurements and Security
 
 # Interests to show in About widget
 interests:
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-I'm a second-year PhD Candidate in the Cybersecurity group at Delft University of Technology under the supervision of Prof. Georgios Smaragdakis and Prof. Harm Griffioen. My research focuses on Network Security via Internet Measurements, making use of infrastructure such as Network Telescopes and Honeypots. Before that, I obtained my MSc. in Digital Security from the EURECOM Institute in Sophia Antipolis, France, and my BSc. in Computer Science from the University of Turin, Italy.
+I'm a third-year PhD Candidate in the Cybersecurity group at Delft University of Technology under the supervision of Prof. Georgios Smaragdakis and Prof. Harm Griffioen. My research focuses on Network Security via Internet Measurements, making use of infrastructure such as Network Telescopes and Honeypots. Before that, I obtained my MSc. in Digital Security from the EURECOM Institute in Sophia Antipolis, France, and my BSc. in Computer Science from the University of Turin, Italy.
 {style="text-align: justify;"}
