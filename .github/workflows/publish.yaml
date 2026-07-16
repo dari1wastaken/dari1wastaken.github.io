@@ -55,6 +55,10 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Inspect public directory
+        run: |
+          ls -lah public
+          find public -maxdepth 2 -type f | sort
 
   # Deploy website to GitHub Pages hosting
   deploy:
