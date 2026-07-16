@@ -59,7 +59,7 @@ jobs:
         run: |
           ls -lah public
           find public -maxdepth 2 -type f | sort
-          head -n 50 index.html
+          head -n 50 public/index.html
 
   # Deploy website to GitHub Pages hosting
   deploy:
