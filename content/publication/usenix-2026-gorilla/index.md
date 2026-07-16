@@ -19,7 +19,8 @@ authors:
 #   - 'Equal contribution'
 
 date: '2026-06-02T00:00:00Z'
-doi: '10.1145/3730567.3764498'
+# doi: '10.1145/3730567.3764498'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2025-10-25T00:00:00Z'
@@ -44,9 +45,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Preprint
+  url: https://www.usenix.org/conference/usenixsecurity26/presentation/weyns
 
 # url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
