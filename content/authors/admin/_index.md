@@ -23,6 +23,8 @@ role: PhD Candidate in Cyber Security
 organizations:
   - name: Delft University of Technology (TU Delft)
     url: https://tudelft.nl
+  - name: Delft Threat Intelligence Lab
+    url: https://delftintellab.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Third-year PhD Candidate in Internet Measurements and Security
