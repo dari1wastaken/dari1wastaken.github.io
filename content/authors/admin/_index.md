@@ -21,7 +21,9 @@ role: PhD Candidate in Cyber Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Delft University of Technology (TU Delft)
+  - name: |
+      Delft University of Technology
+      (TU Delft)
     url: https://tudelft.nl
   - name: Delft Threat Intelligence Lab
     url: https://delftintellab.com/
